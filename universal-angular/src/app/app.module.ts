@@ -40,7 +40,8 @@ import { DxListModule,
     DxMenuModule,
     DxTabsModule,
     DxTreeViewModule,
-    DxTemplateModule } from 'devextreme-angular';
+    DxTemplateModule,
+    DxGanttModule } from 'devextreme-angular';
 
 
 import { AppComponent } from './app.component';
@@ -102,6 +103,7 @@ import { FormsAndMultiPurposeComponent } from './forms-and-multi-purpose/forms-a
     DxTabsModule,
     DxTreeViewModule,
     DxTemplateModule,
+    DxGanttModule,
     DxServerTransferStateModule,
     AppRoutingModule
   ],
